@@ -1,1 +1,1 @@
-Olá tudo bem, teste conflito! AAAA
+Olá tudo bem, teste conflito! BBBB
